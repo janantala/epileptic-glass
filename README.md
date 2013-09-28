@@ -1,6 +1,6 @@
 # epileptic-glass
 
-Sample Node.js app for google glass using mirror API.
+Sample Node.js app for Google Glass using Mirror API. 
 
 Inserts a new item into the timeline with an "epileptic" gif image.
 
