@@ -6,7 +6,7 @@ Inserts a new item into the timeline with an "epileptic" gif image.
 
 ![epileptic](http://images.wikia.com/mrpeople/images/8/80/Epilepsy.gif)
 
-### Reference
+### How to start and reference
 https://github.com/emil10001/glass-mirror-nodejs-auth-demo
 
 ## License
